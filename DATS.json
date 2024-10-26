@@ -1,0 +1,78 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3478384",
+        "identifierSource": "DOI"
+    },
+    "title": "test dataset do not merge",
+    "creators": [
+        {
+            "name": "Tristan Glatard"
+        }
+    ],
+    "description": "<p>Just a test of the CONP Zenodo crawler</p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [],
+            "size": 0.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": null,
+                "authorizations": [
+                    {
+                        "value": "private"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "0"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2019-10-09 14:12:07",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2020-01-24 19:24:30",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
